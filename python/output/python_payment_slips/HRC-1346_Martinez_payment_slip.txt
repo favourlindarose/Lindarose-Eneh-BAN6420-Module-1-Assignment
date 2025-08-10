@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1346
+        Name: Michael Martinez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $27,774.00
+        Overtime: $2,000.00
+        ----------------------------------------
+        TOTAL SALARY: $29,774.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

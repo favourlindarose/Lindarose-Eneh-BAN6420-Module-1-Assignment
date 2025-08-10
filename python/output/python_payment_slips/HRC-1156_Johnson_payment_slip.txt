@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1156
+        Name: James Johnson
+        Gender: Female
+        Employee Level: A5-F
+        
+        Base Salary: $6,335.00
+        Overtime: $1,400.00
+        ----------------------------------------
+        TOTAL SALARY: $7,735.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

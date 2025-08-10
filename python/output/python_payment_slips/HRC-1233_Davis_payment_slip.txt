@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1233
+        Name: William Davis
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $28,810.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $30,710.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

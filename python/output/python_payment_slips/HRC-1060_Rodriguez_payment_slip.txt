@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1060
+        Name: James Rodriguez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $30,543.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $32,443.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

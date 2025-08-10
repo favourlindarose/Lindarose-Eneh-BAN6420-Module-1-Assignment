@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1323
+        Name: Elizabeth Rodriguez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $22,695.00
+        Overtime: $1,000.00
+        ----------------------------------------
+        TOTAL SALARY: $23,695.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

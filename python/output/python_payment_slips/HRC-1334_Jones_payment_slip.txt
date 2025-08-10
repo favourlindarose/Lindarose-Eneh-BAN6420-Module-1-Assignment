@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1334
+        Name: James Jones
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $7,851.00
+        Overtime: $100.00
+        ----------------------------------------
+        TOTAL SALARY: $7,951.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

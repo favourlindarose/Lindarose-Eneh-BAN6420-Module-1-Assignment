@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1056
+        Name: Michael Williams
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $6,499.00
+        Overtime: $1,500.00
+        ----------------------------------------
+        TOTAL SALARY: $7,999.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

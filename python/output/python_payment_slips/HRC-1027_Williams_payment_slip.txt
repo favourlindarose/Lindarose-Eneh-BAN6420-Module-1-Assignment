@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1027
+        Name: James Williams
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $8,616.00
+        Overtime: $800.00
+        ----------------------------------------
+        TOTAL SALARY: $9,416.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

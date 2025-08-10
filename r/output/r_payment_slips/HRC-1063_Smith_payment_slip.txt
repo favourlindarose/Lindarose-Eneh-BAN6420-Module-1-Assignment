@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1063
+Name: James Smith
+Gender: Male
+Employee Level: A1
+
+Base Salary: $14,922
+Overtime: $200.00
+----------------------------------------
+TOTAL SALARY: $15,122.00
+
+Date: 2025-08-06
+----------------------------------------
+

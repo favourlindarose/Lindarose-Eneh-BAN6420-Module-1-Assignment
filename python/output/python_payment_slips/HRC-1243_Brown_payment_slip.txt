@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1243
+        Name: Michael Brown
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $6,352.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $7,052.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

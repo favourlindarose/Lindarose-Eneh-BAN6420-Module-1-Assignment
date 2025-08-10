@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1178
+Name: Robert Jones
+Gender: Male
+Employee Level: B2
+
+Base Salary: $32,485
+Overtime: $1,000.00
+----------------------------------------
+TOTAL SALARY: $33,485.00
+
+Date: 2025-08-06
+----------------------------------------
+

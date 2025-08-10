@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1350
+        Name: William Wilson
+        Gender: Female
+        Employee Level: A5-F
+        
+        Base Salary: $20,025.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $21,925.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

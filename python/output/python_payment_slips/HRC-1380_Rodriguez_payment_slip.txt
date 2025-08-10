@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1380
+        Name: Linda Rodriguez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $26,801.00
+        Overtime: $900.00
+        ----------------------------------------
+        TOTAL SALARY: $27,701.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

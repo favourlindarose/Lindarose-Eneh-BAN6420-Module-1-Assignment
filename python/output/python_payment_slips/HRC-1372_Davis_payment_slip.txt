@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1372
+        Name: Mary Davis
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $8,436.00
+        Overtime: $800.00
+        ----------------------------------------
+        TOTAL SALARY: $9,236.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

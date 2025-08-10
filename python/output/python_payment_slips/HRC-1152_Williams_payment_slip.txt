@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1152
+        Name: Barbara Williams
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $29,856.00
+        Overtime: $400.00
+        ----------------------------------------
+        TOTAL SALARY: $30,256.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

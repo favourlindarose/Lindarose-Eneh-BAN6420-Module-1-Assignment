@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1259
+        Name: Robert Martinez
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $14,380.00
+        Overtime: $800.00
+        ----------------------------------------
+        TOTAL SALARY: $15,180.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

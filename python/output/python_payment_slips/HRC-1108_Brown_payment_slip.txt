@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1108
+        Name: Linda Brown
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $11,149.00
+        Overtime: $200.00
+        ----------------------------------------
+        TOTAL SALARY: $11,349.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

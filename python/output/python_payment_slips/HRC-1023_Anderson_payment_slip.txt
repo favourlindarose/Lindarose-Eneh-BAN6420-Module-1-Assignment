@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1023
+        Name: Michael Anderson
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $17,038.00
+        Overtime: $2,000.00
+        ----------------------------------------
+        TOTAL SALARY: $19,038.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1025
+        Name: Michael Garcia
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $13,645.00
+        Overtime: $1,600.00
+        ----------------------------------------
+        TOTAL SALARY: $15,245.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

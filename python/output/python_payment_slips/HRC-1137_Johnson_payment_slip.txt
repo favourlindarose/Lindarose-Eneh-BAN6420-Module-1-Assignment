@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1137
+        Name: David Johnson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $33,694.00
+        Overtime: $800.00
+        ----------------------------------------
+        TOTAL SALARY: $34,494.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

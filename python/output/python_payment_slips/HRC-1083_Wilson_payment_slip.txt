@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1083
+        Name: David Wilson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $22,795.00
+        Overtime: $1,400.00
+        ----------------------------------------
+        TOTAL SALARY: $24,195.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

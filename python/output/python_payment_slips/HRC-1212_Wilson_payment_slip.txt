@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1212
+        Name: Barbara Wilson
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $9,982.00
+        Overtime: $300.00
+        ----------------------------------------
+        TOTAL SALARY: $10,282.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

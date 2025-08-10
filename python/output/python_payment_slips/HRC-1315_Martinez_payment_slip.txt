@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1315
+        Name: David Martinez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $26,473.00
+        Overtime: $1,300.00
+        ----------------------------------------
+        TOTAL SALARY: $27,773.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

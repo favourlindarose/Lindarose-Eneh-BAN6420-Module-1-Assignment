@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1250
+        Name: Patricia Anderson
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $8,641.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $10,541.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

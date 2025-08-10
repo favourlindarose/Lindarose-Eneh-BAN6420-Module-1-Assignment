@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1058
+        Name: Barbara Smith
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $23,374.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $24,074.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1311
+        Name: Mary Smith
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $14,514.00
+        Overtime: $2,000.00
+        ----------------------------------------
+        TOTAL SALARY: $16,514.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

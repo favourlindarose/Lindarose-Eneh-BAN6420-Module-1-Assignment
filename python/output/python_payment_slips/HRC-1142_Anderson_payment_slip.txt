@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1142
+        Name: Robert Anderson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $34,527.00
+        Overtime: $1,400.00
+        ----------------------------------------
+        TOTAL SALARY: $35,927.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

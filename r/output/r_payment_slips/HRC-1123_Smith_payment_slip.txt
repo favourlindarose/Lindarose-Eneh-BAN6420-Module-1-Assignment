@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1123
+Name: Michael Smith
+Gender: Male
+Employee Level: A1
+
+Base Salary: $9,187
+Overtime: $1,800.00
+----------------------------------------
+TOTAL SALARY: $10,987.00
+
+Date: 2025-08-06
+----------------------------------------
+

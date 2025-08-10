@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1201
+        Name: Patricia Brown
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $32,611.00
+        Overtime: $200.00
+        ----------------------------------------
+        TOTAL SALARY: $32,811.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

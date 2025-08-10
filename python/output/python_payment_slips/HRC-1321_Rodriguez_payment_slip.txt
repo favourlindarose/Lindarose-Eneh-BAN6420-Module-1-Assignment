@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1321
+        Name: David Rodriguez
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $11,146.00
+        Overtime: $900.00
+        ----------------------------------------
+        TOTAL SALARY: $12,046.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

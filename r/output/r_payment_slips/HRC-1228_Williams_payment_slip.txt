@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1228
+Name: John Williams
+Gender: Male
+Employee Level: B2
+
+Base Salary: $27,289
+Overtime: $200.00
+----------------------------------------
+TOTAL SALARY: $27,489.00
+
+Date: 2025-08-06
+----------------------------------------
+

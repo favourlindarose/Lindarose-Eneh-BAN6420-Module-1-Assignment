@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1204
+Name: John Brown
+Gender: Female
+Employee Level: A1
+
+Base Salary: $11,352
+Overtime: $400.00
+----------------------------------------
+TOTAL SALARY: $11,752.00
+
+Date: 2025-08-06
+----------------------------------------
+

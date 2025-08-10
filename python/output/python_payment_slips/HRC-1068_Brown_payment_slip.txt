@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1068
+        Name: David Brown
+        Gender: Female
+        Employee Level: A5-F
+        
+        Base Salary: $24,330.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $25,030.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

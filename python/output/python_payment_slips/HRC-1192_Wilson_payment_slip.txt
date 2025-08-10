@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1192
+        Name: Jennifer Wilson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $27,161.00
+        Overtime: $0.00
+        ----------------------------------------
+        TOTAL SALARY: $27,161.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

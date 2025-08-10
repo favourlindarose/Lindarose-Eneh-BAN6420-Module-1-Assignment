@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1042
+        Name: Robert Williams
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $30,065.00
+        Overtime: $1,700.00
+        ----------------------------------------
+        TOTAL SALARY: $31,765.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

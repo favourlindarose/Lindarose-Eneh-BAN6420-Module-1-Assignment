@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1222
+        Name: Mary Brown
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $18,210.00
+        Overtime: $1,100.00
+        ----------------------------------------
+        TOTAL SALARY: $19,310.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

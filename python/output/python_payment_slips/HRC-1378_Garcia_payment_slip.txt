@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1378
+        Name: Barbara Garcia
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $5,186.00
+        Overtime: $500.00
+        ----------------------------------------
+        TOTAL SALARY: $5,686.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

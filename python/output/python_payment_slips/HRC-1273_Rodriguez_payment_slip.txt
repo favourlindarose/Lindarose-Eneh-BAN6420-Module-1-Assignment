@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1273
+        Name: Robert Rodriguez
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $18,771.00
+        Overtime: $1,200.00
+        ----------------------------------------
+        TOTAL SALARY: $19,971.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

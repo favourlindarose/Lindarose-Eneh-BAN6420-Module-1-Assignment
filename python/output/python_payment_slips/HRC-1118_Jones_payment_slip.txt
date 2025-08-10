@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1118
+        Name: Patricia Jones
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $16,031.00
+        Overtime: $1,300.00
+        ----------------------------------------
+        TOTAL SALARY: $17,331.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

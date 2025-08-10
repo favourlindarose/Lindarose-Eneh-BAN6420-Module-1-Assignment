@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1000
+Name: Elizabeth Wilson
+Gender: Male
+Employee Level: B2
+
+Base Salary: $20,161
+Overtime: $700.00
+----------------------------------------
+TOTAL SALARY: $20,861.00
+
+Date: 2025-08-06
+----------------------------------------
+

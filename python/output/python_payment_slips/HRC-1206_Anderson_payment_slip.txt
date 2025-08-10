@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1206
+        Name: William Anderson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $33,564.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $34,264.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

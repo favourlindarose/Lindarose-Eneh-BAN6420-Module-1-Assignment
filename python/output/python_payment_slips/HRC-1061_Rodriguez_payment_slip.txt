@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1061
+        Name: Mary Rodriguez
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $9,058.00
+        Overtime: $2,000.00
+        ----------------------------------------
+        TOTAL SALARY: $11,058.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

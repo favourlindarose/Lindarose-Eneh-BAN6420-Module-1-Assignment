@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1040
+        Name: Elizabeth Williams
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $9,994.00
+        Overtime: $300.00
+        ----------------------------------------
+        TOTAL SALARY: $10,294.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

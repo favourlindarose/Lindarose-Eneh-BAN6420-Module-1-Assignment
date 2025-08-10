@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1379
+        Name: John Davis
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $10,110.00
+        Overtime: $1,500.00
+        ----------------------------------------
+        TOTAL SALARY: $11,610.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

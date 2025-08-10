@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1030
+        Name: Patricia Miller
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $33,282.00
+        Overtime: $900.00
+        ----------------------------------------
+        TOTAL SALARY: $34,182.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

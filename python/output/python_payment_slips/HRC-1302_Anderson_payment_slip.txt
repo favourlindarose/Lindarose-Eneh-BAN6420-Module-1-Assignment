@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1302
+        Name: Linda Anderson
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $13,229.00
+        Overtime: $100.00
+        ----------------------------------------
+        TOTAL SALARY: $13,329.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

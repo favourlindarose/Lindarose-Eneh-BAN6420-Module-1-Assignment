@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1354
+        Name: Mary Williams
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $17,433.00
+        Overtime: $1,600.00
+        ----------------------------------------
+        TOTAL SALARY: $19,033.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

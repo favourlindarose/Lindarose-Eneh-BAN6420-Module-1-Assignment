@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1073
+        Name: Michael Miller
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $21,160.00
+        Overtime: $1,500.00
+        ----------------------------------------
+        TOTAL SALARY: $22,660.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

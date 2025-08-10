@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1167
+        Name: Robert Brown
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $13,866.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $15,766.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

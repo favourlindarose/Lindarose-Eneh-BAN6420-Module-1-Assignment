@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1309
+        Name: Michael Jones
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $21,859.00
+        Overtime: $1,800.00
+        ----------------------------------------
+        TOTAL SALARY: $23,659.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

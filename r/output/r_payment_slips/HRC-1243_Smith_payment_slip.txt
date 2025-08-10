@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1243
+Name: Michael Smith
+Gender: Female
+Employee Level: B2
+
+Base Salary: $5,634
+Overtime: $600.00
+----------------------------------------
+TOTAL SALARY: $6,234.00
+
+Date: 2025-08-06
+----------------------------------------
+

@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1214
+        Name: William Rodriguez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $29,436.00
+        Overtime: $1,600.00
+        ----------------------------------------
+        TOTAL SALARY: $31,036.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

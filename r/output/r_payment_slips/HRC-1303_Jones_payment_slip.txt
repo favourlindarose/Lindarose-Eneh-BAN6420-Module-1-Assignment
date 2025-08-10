@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1303
+Name: William Jones
+Gender: Male
+Employee Level: B2
+
+Base Salary: $32,885
+Overtime: $400.00
+----------------------------------------
+TOTAL SALARY: $33,285.00
+
+Date: 2025-08-06
+----------------------------------------
+

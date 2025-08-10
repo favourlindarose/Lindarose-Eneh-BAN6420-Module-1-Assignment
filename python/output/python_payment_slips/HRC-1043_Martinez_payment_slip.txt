@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1043
+        Name: William Martinez
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $33,781.00
+        Overtime: $900.00
+        ----------------------------------------
+        TOTAL SALARY: $34,681.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

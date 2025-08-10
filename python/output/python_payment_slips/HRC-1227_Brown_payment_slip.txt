@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1227
+        Name: Barbara Brown
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $30,995.00
+        Overtime: $1,400.00
+        ----------------------------------------
+        TOTAL SALARY: $32,395.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1225
+        Name: Robert Garcia
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $6,713.00
+        Overtime: $2,000.00
+        ----------------------------------------
+        TOTAL SALARY: $8,713.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

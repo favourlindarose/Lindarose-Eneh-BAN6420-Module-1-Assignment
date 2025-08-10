@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1203
+        Name: Jennifer Martinez
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $12,724.00
+        Overtime: $500.00
+        ----------------------------------------
+        TOTAL SALARY: $13,224.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1123
+Name: William Garcia
+Gender: Male
+Employee Level: B2
+
+Base Salary: $7,194
+Overtime: $700.00
+----------------------------------------
+TOTAL SALARY: $7,894.00
+
+Date: 2025-08-06
+----------------------------------------
+

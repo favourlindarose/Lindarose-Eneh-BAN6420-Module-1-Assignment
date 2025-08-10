@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1046
+        Name: Barbara Anderson
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $6,801.00
+        Overtime: $200.00
+        ----------------------------------------
+        TOTAL SALARY: $7,001.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

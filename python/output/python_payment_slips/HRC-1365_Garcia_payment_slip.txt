@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1365
+        Name: Mary Garcia
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $30,731.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $31,431.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

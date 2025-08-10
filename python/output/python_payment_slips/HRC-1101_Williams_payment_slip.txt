@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1101
+        Name: Patricia Williams
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $22,468.00
+        Overtime: $400.00
+        ----------------------------------------
+        TOTAL SALARY: $22,868.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

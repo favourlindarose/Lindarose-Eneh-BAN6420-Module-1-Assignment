@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1314
+        Name: Mary Johnson
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $9,385.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $11,285.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

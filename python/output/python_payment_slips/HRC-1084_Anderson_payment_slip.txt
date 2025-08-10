@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1084
+        Name: James Anderson
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $12,575.00
+        Overtime: $1,500.00
+        ----------------------------------------
+        TOTAL SALARY: $14,075.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

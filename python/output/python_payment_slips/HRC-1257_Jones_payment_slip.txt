@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1257
+        Name: Linda Jones
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $16,309.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $18,209.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

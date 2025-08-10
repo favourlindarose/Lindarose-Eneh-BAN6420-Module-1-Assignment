@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1060
+Name: John Garcia
+Gender: Male
+Employee Level: B2
+
+Base Salary: $30,385
+Overtime: $1,000.00
+----------------------------------------
+TOTAL SALARY: $31,385.00
+
+Date: 2025-08-06
+----------------------------------------
+

@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1245
+Name: John Miller
+Gender: Male
+Employee Level: B2
+
+Base Salary: $20,756
+Overtime: $900.00
+----------------------------------------
+TOTAL SALARY: $21,656.00
+
+Date: 2025-08-06
+----------------------------------------
+

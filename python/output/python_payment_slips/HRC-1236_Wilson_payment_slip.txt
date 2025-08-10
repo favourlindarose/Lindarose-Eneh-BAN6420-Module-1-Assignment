@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1236
+        Name: Linda Wilson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $33,853.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $35,753.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

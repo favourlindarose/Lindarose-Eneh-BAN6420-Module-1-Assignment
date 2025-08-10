@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1121
+        Name: Linda Johnson
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $14,248.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $14,948.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

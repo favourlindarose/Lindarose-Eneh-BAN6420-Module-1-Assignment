@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1394
+        Name: Jennifer Williams
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $9,648.00
+        Overtime: $1,300.00
+        ----------------------------------------
+        TOTAL SALARY: $10,948.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

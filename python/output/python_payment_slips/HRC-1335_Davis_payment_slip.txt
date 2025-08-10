@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1335
+        Name: Michael Davis
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $11,085.00
+        Overtime: $1,700.00
+        ----------------------------------------
+        TOTAL SALARY: $12,785.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

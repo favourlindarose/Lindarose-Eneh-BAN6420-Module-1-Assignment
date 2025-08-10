@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1240
+Name: John Smith
+Gender: Female
+Employee Level: B2
+
+Base Salary: $6,504
+Overtime: $700.00
+----------------------------------------
+TOTAL SALARY: $7,204.00
+
+Date: 2025-08-06
+----------------------------------------
+

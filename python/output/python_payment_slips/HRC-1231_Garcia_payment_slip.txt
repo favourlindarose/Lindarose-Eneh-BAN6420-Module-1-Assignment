@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1231
+        Name: David Garcia
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $18,321.00
+        Overtime: $800.00
+        ----------------------------------------
+        TOTAL SALARY: $19,121.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

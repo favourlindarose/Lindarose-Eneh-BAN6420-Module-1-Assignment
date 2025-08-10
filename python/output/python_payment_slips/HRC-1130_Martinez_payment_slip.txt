@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1130
+        Name: Mary Martinez
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $9,993.00
+        Overtime: $900.00
+        ----------------------------------------
+        TOTAL SALARY: $10,893.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

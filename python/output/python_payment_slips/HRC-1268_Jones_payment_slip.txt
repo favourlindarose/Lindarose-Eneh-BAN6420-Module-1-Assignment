@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1268
+        Name: Barbara Jones
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $18,168.00
+        Overtime: $1,000.00
+        ----------------------------------------
+        TOTAL SALARY: $19,168.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

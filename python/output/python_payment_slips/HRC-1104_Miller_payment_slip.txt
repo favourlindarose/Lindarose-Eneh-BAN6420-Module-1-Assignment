@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1104
+        Name: Barbara Miller
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $5,634.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $6,334.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

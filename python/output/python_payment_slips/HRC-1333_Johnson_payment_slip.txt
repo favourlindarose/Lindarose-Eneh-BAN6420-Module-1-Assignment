@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1333
+        Name: Michael Johnson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $23,999.00
+        Overtime: $300.00
+        ----------------------------------------
+        TOTAL SALARY: $24,299.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

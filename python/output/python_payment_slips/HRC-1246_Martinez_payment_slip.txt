@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1246
+        Name: Patricia Martinez
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $32,505.00
+        Overtime: $1,100.00
+        ----------------------------------------
+        TOTAL SALARY: $33,605.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

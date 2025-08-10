@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1165
+        Name: John Jones
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $16,104.00
+        Overtime: $800.00
+        ----------------------------------------
+        TOTAL SALARY: $16,904.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

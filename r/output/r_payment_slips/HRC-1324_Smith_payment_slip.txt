@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1324
+Name: David Smith
+Gender: Female
+Employee Level: B2
+
+Base Salary: $32,505
+Overtime: $500.00
+----------------------------------------
+TOTAL SALARY: $33,005.00
+
+Date: 2025-08-06
+----------------------------------------
+

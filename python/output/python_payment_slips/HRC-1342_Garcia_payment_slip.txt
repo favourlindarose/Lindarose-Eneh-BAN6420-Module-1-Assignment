@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1342
+        Name: James Garcia
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $29,492.00
+        Overtime: $2,000.00
+        ----------------------------------------
+        TOTAL SALARY: $31,492.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

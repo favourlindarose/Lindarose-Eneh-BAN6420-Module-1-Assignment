@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1041
+Name: William Smith
+Gender: Female
+Employee Level: A1
+
+Base Salary: $10,853
+Overtime: $200.00
+----------------------------------------
+TOTAL SALARY: $11,053.00
+
+Date: 2025-08-06
+----------------------------------------
+

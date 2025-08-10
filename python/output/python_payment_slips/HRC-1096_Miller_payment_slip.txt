@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1096
+        Name: Mary Miller
+        Gender: Female
+        Employee Level: B2
+        
+        Base Salary: $32,027.00
+        Overtime: $300.00
+        ----------------------------------------
+        TOTAL SALARY: $32,327.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1359
+        Name: Linda Smith
+        Gender: Male
+        Employee Level: A1
+        
+        Base Salary: $13,758.00
+        Overtime: $1,400.00
+        ----------------------------------------
+        TOTAL SALARY: $15,158.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

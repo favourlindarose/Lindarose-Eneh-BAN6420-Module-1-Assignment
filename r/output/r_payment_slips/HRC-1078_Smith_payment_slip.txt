@@ -1,0 +1,18 @@
+
+HIGH RIDGE CONSTRUCTION COMPANY
+----------------------------------------
+PAYMENT SLIP - WEEKLY
+----------------------------------------
+Employee ID: HRC-1078
+Name: Robert Smith
+Gender: Male
+Employee Level: B2
+
+Base Salary: $27,869
+Overtime: $900.00
+----------------------------------------
+TOTAL SALARY: $28,769.00
+
+Date: 2025-08-06
+----------------------------------------
+

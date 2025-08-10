@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1341
+        Name: James Davis
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $19,797.00
+        Overtime: $700.00
+        ----------------------------------------
+        TOTAL SALARY: $20,497.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

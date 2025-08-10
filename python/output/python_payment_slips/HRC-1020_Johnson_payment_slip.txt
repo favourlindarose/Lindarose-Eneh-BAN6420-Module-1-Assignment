@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1020
+        Name: Jennifer Johnson
+        Gender: Male
+        Employee Level: B2
+        
+        Base Salary: $32,307.00
+        Overtime: $0.00
+        ----------------------------------------
+        TOTAL SALARY: $32,307.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        

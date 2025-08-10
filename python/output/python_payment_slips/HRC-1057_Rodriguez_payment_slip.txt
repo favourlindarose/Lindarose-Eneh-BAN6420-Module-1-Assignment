@@ -1,0 +1,18 @@
+
+        HIGH RIDGE CONSTRUCTION COMPANY
+        ----------------------------------------
+        PAYMENT SLIP - WEEKLY
+        ----------------------------------------
+        Employee ID: HRC-1057
+        Name: Barbara Rodriguez
+        Gender: Female
+        Employee Level: A1
+        
+        Base Salary: $9,279.00
+        Overtime: $1,900.00
+        ----------------------------------------
+        TOTAL SALARY: $11,179.00
+        
+        Date: 2025-08-06
+        ----------------------------------------
+        
