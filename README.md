@@ -1,4 +1,4 @@
-### Highridge Construction Payment System 
+### Highridge Construction Payment Slips 
 
 ##  Project Overview
 A dual-language implementation (Python + R) for generating weekly payment slips for Highridge Construction Company workers, meeting all assignment requirements:
